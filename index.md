@@ -1,10 +1,8 @@
-## Welcome to GitHub Pages
+## Automatic watering system with an arduino
 
-You can use the [editor on GitHub](https://github.com/Hans-Lenos/arduino-plant/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Project description here
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
+### Material list
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
